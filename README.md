@@ -30,7 +30,7 @@ RKE (remote keyless entry) is an electronic access control system that may be op
 
 * Ease and convenience
 
-# Weakness
+## Weakness
 * The cost of this technology is high
 
 * Thieves can hack the program
