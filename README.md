@@ -1,1 +1,4 @@
-# M3_Grup40
+# RKE (Remote Keyless Entry)
+
+# Description 
+RKE (remote keyless entry) is an electronic access control system that may be operated from a distance. RKEs, which are commonly used to remotely lock or unlock doors, need the end user to perform an action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock. The action is usually performed by pressing a button on a physical fob. The RKE systems for cars can also be used to control the vehicle's ignition system, security alarm, horn, and lights, in addition to locking and unlocking the doors. RKEs can also be used to control access to specific areas of a building, such as garages. While RKE is not commonly used in buildings other than enterprises, it is used in some home automation and security systems.
