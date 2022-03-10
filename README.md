@@ -24,6 +24,8 @@ RKE (remote keyless entry) is an electronic access control system that may be op
 
 # SWOT Analysis
 ## Strengths
+* low power consumption 
+
 * Better Security
 
 * Better accesss control
