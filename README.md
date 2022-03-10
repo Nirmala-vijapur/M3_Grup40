@@ -35,5 +35,21 @@ RKE (remote keyless entry) is an electronic access control system that may be op
 
 * Thieves can hack the program
 
+# 4W'S & 1H
+## WHO 
+The RKE (remote keyless entry) is an electronic access control system that can be operated from a distance.
+
+## WHAT 
+RKE (Remote Keyless Entry) which are commonly used to remotely lock or unlock doors.
+
+## WHEN
+end user needs to perform an action that causes a physical or software key fob to send a radio signal to a receiver that controls an electronic lock.
+
+## Where
+RKE systems for cars can also be used to control the vehicle's ignition system.
+
+## How
+The action is usually performed by pressing a button on a physical fob.
+
 
 
