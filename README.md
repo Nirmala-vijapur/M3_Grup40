@@ -56,6 +56,8 @@ The action is usually performed by pressing a button on a physical fob.
 # Block Diagrams 
 ## Structural Diagram 
 
+![Screenshot (213)](https://user-images.githubusercontent.com/98865009/157795863-a1a36bb1-7ffc-4adb-92e0-691b0b2f5533.png)
+
 
 
 
